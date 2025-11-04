@@ -6,8 +6,6 @@ Live interactive demonstrations of real-world AI solutions built using OpenAI an
 
 **[View Live Demo →](https://tradis1396.github.io/ai-portfolio-demo/ai_portfolio_demo.html)**
 
-*(Replace with your actual GitHub Pages URL)*
-
 ## 📋 Projects Showcased
 
 ### 1. Customer Review Sentiment Analysis
